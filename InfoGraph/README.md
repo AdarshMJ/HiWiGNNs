@@ -1,3 +1,11 @@
+Infograph to work on Mol-HIV dataset for predicting the number of peaks in the spectrum. Follow the instructions for setting up the environment/requirements from the original repository referenced below. The main.py file is modified to work on the custom data.
+
+
+
+
+
+
+
 ## InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
 #### Authors: [Fan-yun Sun](https://fanyun-sun.github.io/fanyun-sun.github.io), [Jordan Hoffman](https://jhoffmann.org/), [Vikas Verma](http://vikasverma1077.github.io/), [Jian Tang](https://jian-tang.com/)
 #### [Link to Paper](https://openreview.net/forum?id=r1lfF2NYvH)
